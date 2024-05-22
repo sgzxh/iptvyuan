@@ -1,14 +1,4 @@
-500,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e500/hls/index.m3u8?
-501,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e501/hls/index.m3u8?
-502,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e502/hls/index.m3u8?
-503,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e503/hls/index.m3u8?
-504,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e504/hls/index.m3u8?
-505,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e505/hls/index.m3u8?
-506,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e506/hls/index.m3u8?
-507,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e507/hls/index.m3u8?
-508,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e508/hls/index.m3u8?
-509,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e509/hls/index.m3u8?
-510,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e510/hls/index.m3u8?
+
 [BD]cctv1[ipv6],https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
 [BD]cctv-1[ipv6],https://epg.pw/stream/78f0712606d51d9811eaa776e3ea93708c3f4b341c11e17dc3ca1466b96af9b3.m3u8
 [BD]cctv1@@4[ipv6],https://epg.pw/stream/0ef91c51031b7772fdb7b080bc006776d112c7d029b86cfca9bad6c4294c53bb.m3u8
