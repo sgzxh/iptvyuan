@@ -89,3 +89,15 @@ CCTV5+,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+500,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e500/hls/index.m3u8?
+501,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e501/hls/index.m3u8?
+502,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e502/hls/index.m3u8?
+503,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e503/hls/index.m3u8?
+504,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e504/hls/index.m3u8?
+505,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e505/hls/index.m3u8?
+506,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e506/hls/index.m3u8?
+507,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e507/hls/index.m3u8?
+508,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e508/hls/index.m3u8?
+509,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e509/hls/index.m3u8?
+510,https://m3u8.48cdn.com/newhd/202312/658c5d677ebb8b1bc4c9e510/hls/index.m3u8?
