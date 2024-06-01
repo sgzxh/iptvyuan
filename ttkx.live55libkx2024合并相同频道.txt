@@ -877,10 +877,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8#https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
-日本,#genre#
-⑥开心转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-@老熬21:32一三,https://vdm6-ali.hrypl168.com/live/a6.flv
+
+
+
 
 其它,#genre#
-@老熬21:32采家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
-@老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
