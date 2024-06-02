@@ -3,7 +3,7 @@ CCTV-1 综合,http://dp.sxtv.top:88/2b/migu.php?id=cctv1#http://222.223.118.222:
 CCTV-2 财经,http://dp.sxtv.top:88/2b/migu.php?id=cctv2#http://222.223.118.222:2180/live/cctv2/index.m3u8#http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#http://iptv123.msns.cn:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0002_1.m3u8#http://222.240.82.92:9901/tsfile/live/0002_1.m3u8#http://1.195.111.251:11190/tsfile/live/0002_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://dp.sxtv.top:88/2b/migu.php?id=cctv3#http://222.223.118.222:2180/live/cctv3/index.m3u8#http://112.123.155.153:9901/tsfile/live/0003_1.m3u8#http://iptv123.msns.cn:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0003_1.m3u8#http://1.195.111.251:11190/tsfile/live/0003_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://dp.sxtv.top:88/2b/migu.php?id=cctv4#http://dp.sxtv.top:88/2b/migu.php?id=cctv4a#http://222.223.118.222:2180/live/cctv4/index.m3u8#http://iptv123.msns.cn:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0004_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
- CCTV4,http://dp.sxtv.top:88/2b/migu.php?id=cctv4o
+
 CCTV-5 体育,http://dp.sxtv.top:88/2b/migu.php?id=cctv5#http://222.223.118.222:2180/live/cctv5/index.m3u8#http://iptv123.msns.cn:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0005_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-6 电影,http://dp.sxtv.top:88/2b/migu.php?id=cctv6#http://222.223.118.222:2180/live/cctv6/index.m3u8#http://112.123.155.153:9901/tsfile/live/0006_1.m3u8#http://iptv123.msns.cn:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0006_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7 国防军事,http://dp.sxtv.top:88/2b/migu.php?id=cctv7#http://222.223.118.222:2180/live/cctv7/index.m3u8#http://58.220.219.14:9901/tsfile/live/0007_1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -20,7 +20,7 @@ CCTV-17 农业农村,http://dp.sxtv.top:88/2b/migu.php?id=cctv17#http://111.160.
 CCTV-5+ 体育赛事,http://dp.sxtv.top:88/2b/migu.php?id=cctv5p#http://tvbox.mohuajz.eu.org/tv/vip1.php?id=6#http://iptv123.msns.cn:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+HD,http://222.223.118.222:2180/live/cctv5q/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-
+ CCTV4 欧洲,http://dp.sxtv.top:88/2b/migu.php?id=cctv4o
 💝央视频道👉IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
